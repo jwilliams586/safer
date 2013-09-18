@@ -1,0 +1,8 @@
+Key:  0102030405060708
+Text: ABCDEFGH
+Out:  98 87 19 98 5a 1d ca 45
+
+Key:  1b2055683b1e01cd
+Text: Madam, I'm Adam.
+Out:  c8c1e365591b7bd5 bb90708dd04e091d
+  (I put a blank in the output between the 2 blocks)

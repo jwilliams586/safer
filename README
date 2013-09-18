@@ -1,0 +1,5 @@
+make command: make -f *.mak
+
+User gives an 8 byte hex key and then a message
+Program will run a safer algorithm to encrypt the message with the key given
+
